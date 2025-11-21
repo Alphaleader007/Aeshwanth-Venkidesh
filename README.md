@@ -54,7 +54,7 @@ Performed segmentation using K-Means clustering to identify customer groups base
 ---
 
 ## 📫 Let's Connect
-💼 [LinkedIn](https://www.linkedin.com/in/aeshwanth) • 📧 aeshwanth.venki@email.com  
+💼 [LinkedIn](https://www.linkedin.com/in/aeshwanth) • 📧 aeshwanth.venkidesh@gmail.com  
 
 ---
 
