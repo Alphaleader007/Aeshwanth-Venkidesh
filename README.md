@@ -32,6 +32,8 @@ Performed segmentation using K-Means clustering to identify customer groups base
 
 | Category | Tools |
 |-----------|-------|
+|IT Infrastructure & Support | Windows 10/11, system monitoring, hardware diagnostics, VPN
+connectivity, LAN/WAN basics, remote support (AnyDesk), Active Directory user admin, OneDrive / M365 administration|
 | Programming | Python (Pandas, NumPy, Matplotlib, Scikit-learn) |
 | Data Visualization | Tableau, Power BI, Matplotlib |
 | Databases | SQL, SQLite |
