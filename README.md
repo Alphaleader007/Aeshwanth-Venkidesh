@@ -3,8 +3,8 @@ About me
 # 👋 Hi, I'm Aeshwanth Venkidesh
 
 🎯 **Data Analytics Professional** passionate about transforming complex data into clear, actionable insights that drive better decisions.  
-⚡ Known for **quickly learning and adapting** to new tools, technologies, and analytical frameworks.  
-📊 Skilled in **Python, SQL, Tableau, and Excel**, with experience in KPI development, data visualization, and statistical analysis.
+⚡ Known for **quickly learning and adapting** to new tools, technologies, and analytical frameworks. Skilled in  system monitoring, Desktop support and network fundamentals. 
+📊 Experienced in **Python, SQL, Tableau, and Excel**, with experience in KPI development, data visualization, and statistical analysis.
 
 ---
 
