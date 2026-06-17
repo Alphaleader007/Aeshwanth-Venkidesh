@@ -3,8 +3,7 @@ About me
 # 👋 Hi, I'm Aeshwanth Venkidesh
 
 🎯 **Data Analytics Professional** passionate about transforming complex data into clear, actionable insights that drive better decisions.  
-⚡ Known for **quickly learning and adapting** to new tools, technologies, and analytical frameworks. Skilled in  system monitoring, Desktop
-support and network fundamentals. 
+⚡ Known for **quickly learning and adapting** to new tools, technologies, and AI frameworks.
 📊 Experienced in **Python, SQL, Tableau, and Excel**, with experience in KPI development, data visualization, and statistical analysis.
 
 ---
@@ -43,8 +42,9 @@ Performed segmentation using K-Means clustering to identify customer groups base
 
 ## 🌱 Currently Learning
 - Machine Learning for Business Insights  
-- Advanced Dashboard Automation with Tableau & Power BI  
-- Predictive Analytics 
+- Advanced Dashboard Automation  
+- Subagents
+- Harness Engineering
 
 ---
 
@@ -56,7 +56,7 @@ Performed segmentation using K-Means clustering to identify customer groups base
 ---
 
 ## 📫 Let's Connect
-💼 [LinkedIn](https://www.linkedin.com/in/aeshwanth) • 📧 aeshwanth.venkidesh@gmail.com  
+• 📧 aeshwanth.venkidesh@gmail.com  
 
 ---
 
