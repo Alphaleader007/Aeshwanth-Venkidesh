@@ -1,64 +1,84 @@
-# Aeshwanth-Venkidesh
-About me
-# 👋 Hi, I'm Aeshwanth Venkidesh
+👋 Hi, I'm Aeshwanth Venkidesh
 
-🎯 **Data Analytics Professional** passionate about transforming complex data into clear, actionable insights that drive better decisions.  
-⚡ Known for **quickly learning and adapting** to new tools, technologies, and AI frameworks.
-📊 Experienced in **Python, SQL, Tableau, and Excel**, with experience in KPI development, data visualization, and statistical analysis.
+Aspiring Gen AI / AI Software Developer. I build with LLMs, agents, and Python, turning models into working software. Strong foundation in applied ML and data, now focused on shipping AI-powered applications.
 
----
 
-## 🚀 Featured Projects
+🤖 Building with LLMs: prompt engineering, RAG, tool use, and agent/subagent architectures
+🐍 Core stack: Python, scikit-learn, SQL — comfortable from data pipeline to model to API
+⚡ Fast learner who picks up new AI frameworks and tooling quickly
+🎯 Looking for a Gen AI software development internship
 
-### 🔹 [Mass Culture Data Analysis](#)
-Comprehensive analytics project for a nonprofit arts organization.  
-- Designed **custom KPIs** (Total Revenue, Program Efficiency, Fundraising Ratio) to assess financial performance.  
-- Leveraged **Python** for statistical analysis and **Tableau** for visualization.  
-- Applied **clustering analysis** to identify financial and operational patterns.  
-- Delivered **data-driven recommendations** to improve strategic planning and financial resilience.
 
-### 🔹 [Sales Forecasting with Time Series Models](#)
-Built a predictive model using Python to forecast retail sales trends.  
-- Used ARIMA and Prophet models to predict monthly revenue with 93% accuracy.  
-- Created dynamic visual dashboards to track forecast performance over time.
 
-### 🔹 [Customer Segmentation Analysis](#)
-Performed segmentation using K-Means clustering to identify customer groups based on spending behavior.  
-- Enhanced marketing focus and retention strategy through data-driven insights.
+🚀 Featured Projects
 
----
+🔹 Sales Forecasting with Time-Series Models
 
-## 🧠 Skills & Tools
+Predictive pipeline built in Python to forecast retail revenue.
 
-| Category | Tools |
-|-----------|-------|
-|IT Infrastructure & Support | Windows 10/11, system monitoring, hardware diagnostics, VPN connectivity, LAN/WAN basics, remote support (AnyDesk), Active Directory user admin, OneDrive / M365 administration|
-| Programming | Python (Pandas, NumPy, Matplotlib, Scikit-learn) |
-| Data Visualization | Tableau, Power BI, Matplotlib |
-| Databases | SQL, SQLite |
-| Other | Excel, Data Cleaning, EDA, KPI Design, Clustering |
 
----
+Engineered ARIMA and Prophet models, reaching ~93% accuracy on monthly revenue.
+Built dynamic dashboards to track forecast vs. actuals over time.
+Stack: Python, Prophet, statsmodels, pandas, Matplotlib
 
-## 🌱 Currently Learning
-- Machine Learning for Business Insights  
-- Advanced Dashboard Automation  
-- Subagents
-- Harness Engineering
 
----
+🔹 Customer Segmentation Engine
 
-## 🔮 Future Goals
-- Build real-time data dashboards for performance tracking  
-- Develop predictive models for all sorts of data
-- Contribute to open-source analytics projects that support social impact  
+Unsupervised ML to group customers by spending behavior.
 
----
 
-## 📫 Let's Connect
-• 📧 aeshwanth.venkidesh@gmail.com  
+Implemented K-Means clustering with scikit-learn and feature engineering on behavioral data.
+Translated clusters into actionable retention and targeting strategies.
+Stack: Python, scikit-learn, pandas
 
----
 
-💡 *"Data becomes powerful when it tells a story — and I love helping organizations find that story."*
+🔹 Mass Culture Data Analysis
+
+End-to-end analytics for a nonprofit arts organization.
+
+
+Designed custom KPIs (Total Revenue, Program Efficiency, Fundraising Ratio) and ran clustering to surface operational patterns.
+Delivered data-driven recommendations for strategic and financial planning.
+Stack: Python, Tableau, scikit-learn
+
+
+
+🛠️ In progress: an LLM-powered agent project (subagents + harness engineering) — coming soon.
+
+
+
+
+🧠 Tech Stack
+
+CategoryToolsLanguagesPython, SQLGen AI / LLMsPrompt engineering, RAG, tool use, agent & subagent design (actively building) — exploring OpenAI & Anthropic APIs, LangChainMLscikit-learn, clustering (K-Means), time-series (ARIMA, Prophet)DataPandas, NumPy, EDA, data cleaning, SQLiteAPIs & ServingREST APIs, FastAPI (learning)VisualizationMatplotlib, Tableau, Power BIToolingGit & GitHub, Jupyter, Excel
+
+
+🤖 Currently Building & Learning
+
+
+Agent systems — subagent architectures and harness engineering
+LLM application development — RAG pipelines, prompt engineering, structured tool use
+AI software engineering — serving models behind clean Python APIs
+
+
+
+🔭 Goals
+
+
+Ship production-grade Gen AI applications, not just notebooks
+Contribute to open-source AI/agent tooling
+Build real-time, AI-driven products with measurable impact
+
+
+
+📫 Let's Connect
+
+
+📧 aeshwanth.venkidesh@gmail.com
+💼 (add your LinkedIn)
+
+
+
+💡 "Models become useful when they ship — I love turning AI into software people can actually use."
+
 
