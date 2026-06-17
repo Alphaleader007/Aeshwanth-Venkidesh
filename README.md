@@ -37,7 +37,7 @@ End-to-end analytics for a nonprofit arts organization.
 
 | Category | Tools |
 |---|---|
-| **Languages** | Python, SQL |
+| **Languages** | Python, SQL , C, C++, Embedded C|
 | **Gen AI / LLMs** | Prompt engineering, RAG, tool use, agent & subagent design *(actively building)* — exploring OpenAI & Anthropic APIs, LangChain |
 | **ML** | scikit-learn, clustering (K-Means), time-series (ARIMA, Prophet) |
 | **Data** | Pandas, NumPy, EDA, data cleaning, SQLite |
